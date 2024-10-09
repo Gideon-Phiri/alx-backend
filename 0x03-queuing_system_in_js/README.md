@@ -188,5 +188,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- **Your Name**
-  - GitHub: [Your GitHub Profile](https://github.com/Gideon_Phiri)
+- **Gideon Phiri**
+  - GitHub: [Gideon-Phiri](https://github.com/Gideon-Phiri)
